@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="photo_pick">
+        <item>拍照</item>
+        <item>从相册中选择</item>
+        <item>取消</item>
+    </string-array>
+    
+    <string-array name="contact_pick">
+        <item>发消息</item>
+        <item>打电话</item>
+        <item>取消</item>
+    </string-array>
+    
+</resources>

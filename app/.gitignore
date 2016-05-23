@@ -1,0 +1,7 @@
+/build
+.idea/*
+.gradle
+gradle.properties
+*.iml
+NumberPicker/build
+NumberPicker/*.iml
